@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="250px" height="250px" viewBox="0 0 250 250" enable-background="new 0 0 250 250" xml:space="preserve">
+<rect y="174.014" fill="#6D6D6D" width="250" height="75.986"/>
+<rect fill="#A6B7BC" width="250" height="174.014"/>
+
+<g>
+	<animateMotion  fill="remove" repeatCount="indefinite" accumulate="none" dur="2s" additive="replace" from="0,0" to="100,-100" restart="always" calcMode="paced">
+		</animateMotion>
+<circle fill="#9B9A9A" cx="154.268" cy="45.862" r="10.537"/>
+<circle fill="#9B9A9A" cx="168.253" cy="58.375" r="10.05"/>
+<circle fill="#9B9A9A" cx="144.292" cy="67.301" r="7.976"/>
+<circle fill="#9B9A9A" cx="146.643" cy="55.949" r="7.625"/>
+<circle fill="#9B9A9A" cx="158.119" cy="62.51" r="8.134"/>
+<circle fill="#9B9A9A" cx="170.555" cy="42.575" r="9.75"/>
+</g>
+
+<g>
+<animateMotion  fill="remove" repeatCount="indefinite" accumulate="none" dur="3s" additive="replace" from="0,0" to="100,-100" restart="always" calcMode="paced" >
+		</animateMotion>
+<circle fill="#9B9A9A" cx="101.463" cy="49.537" r="10.537"/>
+<circle fill="#9B9A9A" cx="115.45" cy="62.05" r="10.05"/>
+<circle fill="#9B9A9A" cx="91.488" cy="70.976" r="7.976"/>
+<circle fill="#9B9A9A" cx="93.839" cy="59.624" r="7.624"/>
+<circle fill="#9B9A9A" cx="105.315" cy="66.185" r="8.135"/>
+<circle fill="#9B9A9A" cx="117.75" cy="46.25" r="9.75"/>
+</g>
+
+<g>
+<animateTransform attributeName="transform"
+                      type="scale"
+                      from="0.99 0.99" to="1.001 1.001"
+                      begin="0s" dur="1s"
+                      repeatCount="indefinite"
+					  />
+<rect x="83.744" y="68.854" fill="#493B2F" width="12.499" height="6.908" />
+<rect x="95.803" y="68.854" fill="#3A3023" width="12.499" height="6.908"/>
+<rect x="137.248" y="68.854" fill="#493B2F" width="12.499" height="6.908"/>
+<rect x="149.309" y="68.854" fill="#3A3023" width="12.496" height="6.908"/>
+</g>
+
+<rect x="83.744" y="75.761" fill="#FFFFFF" width="12.499" height="45.883"/>
+<rect x="94.927" y="75.761" fill="#DCDDB1" width="13.375" height="45.883"/>
+<rect x="137.029" y="75.761" fill="#FFFFFF" width="12.498" height="45.883"/>
+<rect x="148.213" y="75.761" fill="#DCDDB1" width="13.374" height="45.883"/>
+<rect x="83.525" y="120.493" fill="#CC3537" width="12.498" height="6.907"/>
+<rect x="95.585" y="120.493" fill="#A9292A" width="12.896" height="6.907"/>
+<rect x="137.051" y="120.329" fill="#CC3537" width="12.498" height="6.907"/>
+<rect x="149.111" y="120.329" fill="#A9292A" width="12.895" height="6.907"/>
+<rect x="69.512" y="163.357" fill="#CC3537" width="26.512" height="10.306"/>
+<rect x="96.023" y="163.357" fill="#A9292A" width="26.751" height="10.306"/>
+<rect x="122.896" y="163.357" fill="#CC3537" width="26.512" height="10.306"/>
+<rect x="149.408" y="163.357" fill="#A9292A" width="26.752" height="10.306"/>
+<polygon fill="#FFFFFF" points="83.525,127.4 96.242,127.4 96.242,163.357 72.232,163.357 "/>
+<polygon fill="#DCDDB1" points="108.961,127.4 96.242,127.4 96.242,163.357 120.034,163.357 "/>
+<polygon fill="#FFFFFF" points="136.801,127.4 149.518,127.4 149.518,163.357 125.507,163.357 "/>
+<polygon fill="#DCDDB1" points="162.236,127.4 149.518,127.4 149.518,163.357 173.311,163.357 "/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="0" y1="212.006" x2="250" y2="212.006"/>
+<g>
+	
+		<animateMotion  fill="remove" repeatCount="indefinite" accumulate="none" dur="4s" additive="replace" from="260,0" to="-250,0" restart="always" calcMode="paced">
+		</animateMotion>
+	<ellipse fill="#303030" cx="90.215" cy="232.332" rx="9.448" ry="8.835"/>
+	<ellipse fill="#FFFFFF" cx="90.215" cy="232.499" rx="6.417" ry="6"/>
+	<ellipse fill="#303030" cx="145.6" cy="232.166" rx="9.447" ry="8.835"/>
+	<ellipse fill="#FFFFFF" cx="145.6" cy="232.333" rx="6.418" ry="6"/>
+	<path d="M95.75,216.625c0,0-17.375-0.252-21.5,6.874c0,0-4.125,6.251,0,10.376h5.875c0,0-0.375-5.752,5-10.376
+		c0,0,6.889-2.933,11.507,1.034c0,0,5.068,3.592,3.031,10.342h35.962c0,0-1.5-7.502,4.5-11.376c0,0,8.125-3.833,13.75,2.834
+		c0,0,2.625,4.042,1.875,7.542c0,0,10.07-1,11.75-2.375c0,0,4.125-6-1.125-10.625c0,0-7.75-0.375-12.75-4.875
+		c0,0-7.5-8-18.625-9.625c0,0-15.375-2.875-26.875,3.25L95.75,216.625z"/>
+	<path fill="#FFFFFF" d="M123.699,207.822l-0.789,8.678h-20.285C102.625,216.5,110.626,209.021,123.699,207.822z"/>
+	<path fill="#FFFFFF" d="M126.922,207.541l-1.047,8.959h23.502C149.377,216.5,141.116,207.191,126.922,207.541z"/>
+	<ellipse fill="#9B9A9A" cx="198.199" cy="213.871" rx="14.609" ry="5.975"/>
+	<ellipse fill="#9B9A9A" cx="217.591" cy="220.965" rx="13.935" ry="5.698"/>
+	<ellipse fill="#9B9A9A" cx="187.628" cy="219.59" rx="10.571" ry="4.321"/>
+	<ellipse fill="#9B9A9A" cx="203.539" cy="223.309" rx="11.277" ry="4.611"/>
+	<ellipse fill="#9B9A9A" cx="220.779" cy="212.008" rx="13.519" ry="5.527"/>
+</g>
+</svg>
